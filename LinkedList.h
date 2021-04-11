@@ -111,8 +111,6 @@ void LinkedList<T>::Print(){
 		}
 		cout << endl;
 	}
-
 }
-
 
 #endif
